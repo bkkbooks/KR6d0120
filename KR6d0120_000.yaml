@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0120/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀普賢菩薩行法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T09/T09n0277.xml
+    old_id: T09n0277
+hash: sha256:f6357b5e5337080201ba78af586e0e20a0c8463ab8289c7c0ec723bf959ea51b
