@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0120_000.yaml, hash: 'sha256:f6357b5e5337080201ba78af586e0e20a0c8463ab8289c7c0ec723bf959ea51b'}
-  - {seq: 1, filename: KR6d0120_001.yaml, hash: 'sha256:3fe717b70791dfdc45f1cde2f5c2700391e0fdbce24bf2c7b5ca58ca279dde43'}
+  - {seq: 1, filename: KR6d0120_001.yaml, hash: 'sha256:07f2ed5c69508e76c7ad81d7dc0af0a376d2fc0e6796f4cf78fb82ff26e7199f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0120_001.markers.yaml, hash: 'sha256:251dca7bbb745e2f973db6d6f741abfe3209607b4a74f42bc7b929e7e5b99a88'}
+  - {seq: 0, role: markers, filename: assets/KR6d0120_000.markers.yaml, hash: 'sha256:75d5e63a6ffd9c5af1ee79aa5c95080687f9ffb2d243b11151b5be76d1927790'}
+  - {seq: 1, role: markers, filename: assets/KR6d0120_001.markers.yaml, hash: 'sha256:e8b80b5670d8dcfe13da968d529762b3aaf6169a93071a9238ac7be85f4ddddc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說觀普賢菩薩行法經
   type: juan
   level: 1
-hash: sha256:eac74f2dd755e8f05c2c90ad0a2026524dfc503d6b4c029f80ba8189c31052de
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b5b3d3b81ed0f1915a5de4afab7e67ad8fe7249de0597d7e52c10b0105314b29
