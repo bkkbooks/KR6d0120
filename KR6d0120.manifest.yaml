@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0120/v1
 canonical_location: https://kanripo.org/bkk/KR6d0120/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說觀普賢菩薩行法經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0120_000.yaml, hash: 'sha256:f6357b5e5337080201ba78af586e0e20a0c8463ab8289c7c0ec723bf959ea51b'}
-  - {seq: 1, filename: KR6d0120_001.yaml, hash: 'sha256:07f2ed5c69508e76c7ad81d7dc0af0a376d2fc0e6796f4cf78fb82ff26e7199f'}
+  - {seq: 1, filename: KR6d0120_001.yaml, hash: 'sha256:d8502dc331376f76015762461306c7557a21b7ee8b30f777f30465bea39bdc65'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0120_000.markers.yaml, hash: 'sha256:75d5e63a6ffd9c5af1ee79aa5c95080687f9ffb2d243b11151b5be76d1927790'}
-  - {seq: 1, role: markers, filename: assets/KR6d0120_001.markers.yaml, hash: 'sha256:e8b80b5670d8dcfe13da968d529762b3aaf6169a93071a9238ac7be85f4ddddc'}
+  - {seq: 1, role: markers, filename: assets/KR6d0120_001.markers.yaml, hash: 'sha256:9838d885fd82f7aa50c3ef34e978ef41f7e7be4cea123aef484517683faf4aed'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說觀普賢菩薩行法經
   type: juan
   level: 1
-hash: sha256:b5b3d3b81ed0f1915a5de4afab7e67ad8fe7249de0597d7e52c10b0105314b29
+hash: sha256:97a9a2c6709eae46563cfd45bed347ded22eeaf9f4c135e80d28c26bed46ea76
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
